@@ -1,0 +1,7 @@
+git branch
+git branch -r
+git branch testgit1
+git checkout testgit1
+git checkout -b testgit2
+git branch -d testgit1
+git merge testgit2
