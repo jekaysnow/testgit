@@ -5,3 +5,8 @@ git checkout testgit1
 git checkout -b testgit2
 git branch -d testgit1
 git merge testgit2
+git tag
+git tag name
+git tag -d name
+git tag -r
+this is version 2

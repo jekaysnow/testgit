@@ -1,1 +1,6 @@
 git ,why is endicode, fuck 
+git push origin :heads/name
+git clean -fdx
+git pull origin -tags
+git push origin --tags
+this is version 2
